@@ -11,7 +11,7 @@ apt install git
 rm -rf RNDM-PAK
 git clone https://github.com/RATUL-143/RNDM-PAK
 cd RNDM-PAK
-python rndm.py
+python Ratul.py
 ```
 
 * If You Face Any Problem Contact me⬇️:
